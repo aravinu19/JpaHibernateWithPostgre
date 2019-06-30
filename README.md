@@ -8,4 +8,15 @@
 - Hibernate 5.4.1 Final
 - Maven
 
-### Configuration file is [a link]
+### Configuration file is [persistence.xml][config]
+    change it according to your configuration
+
+### To Run this Example
+
+    git clone https://github.com/aravinu19/JpaHibernateWithPostgre.git
+
+    Import this project in Eclipse
+
+
+
+[config]: https://github.com/aravinu19/JpaHibernateWithPostgre/blob/master/resources/META-INF/persistence.xml
